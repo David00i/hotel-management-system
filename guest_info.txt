@@ -1,0 +1,4 @@
+{"ref_no": "1JKQ0048", "booking room": "A01", "name": "AC", "contact": "0123456789", "checkin date": "2022-06-02", "checkout date": "2022-06-03", "food": 0, "beverage": 0, "service": 40, "sum": 40}
+{"ref_no": "1OWX0151", "booking room": "A01", "name": "john", "contact": "0124561234", "checkin date": "2022-06-09", "checkout date": 0, "food": 0, "beverage": 0, "service": 0, "sum": 0}
+{"ref_no": "1POP9626", "booking room": "C01", "name": "sam", "contact": "0198765432", "checkin date": "2022-06-09", "checkout date": 0, "food": 0, "beverage": 0, "service": 0, "sum": 0}
+{"ref_no": "1JKB7807", "booking room": "B01", "name": "steven", "contact": "0192345876", "checkin date": "2022-06-12", "checkout date": 0, "food": 0, "beverage": 0, "service": 0, "sum": 0}
